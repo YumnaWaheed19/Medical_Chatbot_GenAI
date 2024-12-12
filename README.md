@@ -1,1 +1,1 @@
-# Medical_Chatbot_GenAI
+# Medical Chatbot GenAI
